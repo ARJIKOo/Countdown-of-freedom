@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - GunNameText
+  - GunImage
+  - GunPriceText
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Climbing
+  - Virtual Collider
+  - Bounce
+  - Player
+  - Enemy
+  - Hazard
+  - Bullets
+  - Exit
+  - coin
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 522351401
+    locked: 0
+  - name: platform
+    uniqueID: 751477745
+    locked: 0
+  - name: Climbing
+    uniqueID: 2465267743
+    locked: 0
+  - name: Hazard
+    uniqueID: 3256040293
+    locked: 0
+  - name: coin
+    uniqueID: 144782891
+    locked: 0
+  - name: Exit
+    uniqueID: 3398879247
+    locked: 0
+  - name: Enemy
+    uniqueID: 1157806893
+    locked: 0
+  - name: Player
+    uniqueID: 1450720457
+    locked: 0
+  - name: Water
+    uniqueID: 2654022577
+    locked: 0
+  - name: Bullets
+    uniqueID: 1801283719
+    locked: 0

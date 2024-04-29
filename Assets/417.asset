@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b52675e62dba704982b9a6f3ff1ce3d, type: 3}
+  m_Name: 417
+  m_EditorClassIdentifier: 
+  GunName: 417
+  damage: 23
+  cost: 50
+  gunSprite: {fileID: 21300000, guid: 66a3f37feec379e49b2524dee7946d85, type: 3}
+  BulletsPrefab: {fileID: 1313467207146290738, guid: a0e6aa605b7850e4aba2ef334beb0fbf, type: 3}
+  PoolAmount: 10
