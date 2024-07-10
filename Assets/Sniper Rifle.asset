@@ -15,6 +15,6 @@ MonoBehaviour:
   GunName: Sniper Rifle
   damage: 33
   cost: 333
-  gunSprite: {fileID: 21300000, guid: 7a945223eed41c141992cdabd68eb2f7, type: 3}
+  gunSprite: {fileID: 21300000, guid: 5cbf460c10607e6458d0cf05427df416, type: 3}
   BulletsPrefab: {fileID: 1313467207146290738, guid: 4875b6d534ed0df4c90325a98b26fdc2, type: 3}
   PoolAmount: 10

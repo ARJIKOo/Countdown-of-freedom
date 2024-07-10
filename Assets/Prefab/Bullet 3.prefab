@@ -162,4 +162,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bulettsDamage: 10
-  speed: 15
+  speed: 8
